@@ -1,0 +1,11 @@
+Script started on 2022-10-05 05:35:17-07:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="76" LINES="39"]
+# 
+# q
+sh: 2: q: not found
+# ./2-bring_me	_home
+sh: 3: ./2-bring_me_home: Permission denied
+# 1 ./1. -listit
+0-current_working_directory  1-listit  2-bring_me_home	README.md  that
+# ^[^[    exy it
+
+Script done on 2022-10-05 05:37:16-07:00 [COMMAND_EXIT_CODE="0"]
